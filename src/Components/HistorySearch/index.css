@@ -1,0 +1,19 @@
+.items-container {
+  padding: 30px;
+  padding-right: 70px;
+  padding-left: 70px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.no-history {
+  color: #64748b;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.list-container {
+  box-shadow: 0px 4px 16px 0px #64748b;
+  width: 100%;
+}

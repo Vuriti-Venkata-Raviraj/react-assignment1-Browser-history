@@ -1,0 +1,46 @@
+.search-items-container {
+  padding: 20px;
+  list-style: none;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  font-family: Roboto;
+  width: 100%;
+}
+
+.time {
+  font-weight: 600;
+  margin-right: 40px;
+  color: #64748b;
+}
+
+.details {
+  display: flex;
+  align-items: center;
+  color: #64748b;
+}
+
+.domain-logo {
+  height: 25px;
+  font-weight: 600;
+}
+
+.title {
+  padding-left: 20px;
+  font-weight: 700;
+}
+
+.url {
+  margin-left: 20px;
+}
+
+.delete {
+  height: 20px;
+}
+
+.button {
+  background-color: transparent;
+  border: none;
+  margin-left: auto;
+  cursor: pointer;
+}
